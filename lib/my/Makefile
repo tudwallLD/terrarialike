@@ -27,6 +27,7 @@ SRC 	=	my_putchar.c \
 			my_swap.c \
 			array_size.c \
 			array_dup.c \
+			my_convert_type.c \
 
 CFLAGS += -I ../../include/
 
